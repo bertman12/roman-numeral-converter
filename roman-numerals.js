@@ -63,7 +63,7 @@ THE ALGORITHM WOULD START FROM THE BEGINNING OF THE ARRAY AND WORK TO THE END WH
     AND THEN CHOOSE THE CORRECT ROMAN NUMERAL
     
 */
-
+console.log('Im in the script!');
 
 function computeInput(number) {
     
