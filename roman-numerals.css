@@ -9,6 +9,10 @@ html{
     background-position: center;
 }
 
+.title{
+    font-family:'Times New Roman'!important; 
+}
+
 #submit-column{
     display: flex;
     flex-direction: column;
@@ -24,4 +28,8 @@ html{
 
 #output-textarea{
     resize: none;
+}
+
+#convert-button{
+    box-shadow: 4px 4px 5px 0px rgba(0,0,0,0.75);
 }
